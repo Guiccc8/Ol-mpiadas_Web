@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+header {
+    background: url('https://example.com/header-bg.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    padding: 100px 0;
+}
+
+h2 {
+    color: #007bff;
+}
+
+.card {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 50px 0;
+    }
+}

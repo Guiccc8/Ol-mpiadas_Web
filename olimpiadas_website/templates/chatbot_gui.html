@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='chatbot.css') }}">
+
+    <title>PAPÃO DA CURUZU</title>
+
+</head>
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">OLIMPÍADAS</a>
+            <div class="collapse navbar-collapse justify-content-end">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/historia">História</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/papaodacuruzu">PAPÃO DA CURUZU</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Serviços</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-contact" href="/contato">CONTATO</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="chatSection">
+
+        <img class="mainPapao" src="{{ url_for('static', filename='img/papao_da_curuzu_allbody.png') }}" alt="PAPÃO DA CURUZU COMPLETO">
+    
+        <div class="mainSection">
+                    
+            <h1 class="title">Pergunte ao PAPÃO DA CURUZU</h1>    
+    
+            <div class="chatAnswer">
+                <div class="sectionQuestion">
+                    <div class="chatQuestion">
+                        <div class="promptQuestion">
+                            {{ user_message }}
+                        </div>
+                        <div class="userPfp">
+                            <img src="{{ url_for('static', filename='img/user_pfp.png') }}" alt="PAPÃO DA CURUZU">
+                        </div>
+                    </div>
+                    <div class="sectionAnswer">
+                        <div class="papaoPfp">
+                        <img src="{{ url_for('static', filename='img/papao_da_curuzu_pfp.png') }}" alt="PAPÃO DA CURUZU">
+                        </div>
+                        <div class="answer">
+                            {{ bot_response | safe }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <form class="userQuestion" method="POST" action="/papaodacuruzu">
+                <input type="hidden" name="form" value="pergunta">
+                <input type="text" class="question" name="question" placeholder="Pergunte ao PAPÃO DA CURUZU...">
+                <button class="submit" type="submit">Enviar</button>
+                <button class="clear" type="submit">Limpar</button>
+            </form>
+    
+        </div>
+    
+    </div>
+
+    <footer class="py-4 mt-5 bg-dark text-white text-center">
+        <p>&copy; 2024 Olimpíadas. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>

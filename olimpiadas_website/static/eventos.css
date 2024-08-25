@@ -1,0 +1,139 @@
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    padding: 1rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.nav-link {
+    margin-right: 15px;
+    color: #000;
+    font-size: 16px;
+}
+
+.btn-contact {
+    font-weight: bold;
+    color: #000;
+    border: 1px solid #000;
+    padding: 0.5rem 1rem;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+#walpaperNav{
+    height: 35vw;
+    width: 100vw;
+    display: flex;
+    padding-left: 7%;
+    background-image: url("https://cdn.americachip.com/wp-content/uploads/2024/04/olimpiadas-de-paris.jpg");
+    background-size: cover;
+    background-position: center;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+}
+#tituloPrincipal {
+    font-size: 5vw; /* Tamanho da fonte grande, mas não exagerado */
+    font-family: 'Helvetica Neue', sans-serif; /* Fonte moderna e limpa */
+    font-weight: 400; /* Peso de fonte regular para um toque mais suave */
+    text-transform: uppercase; /* Maiúsculas para sofisticação */
+    color: #222; /* Preto suave para um visual elegante */
+    letter-spacing: 0.1em; /* Espaçamento entre letras para clareza */
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2); /* Sombra sutil e refinada */
+    margin: 0;
+}
+.events-date {
+    text-align: center;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    background-color: rgba(25, 47, 89, 0.9);
+    color: #fff;
+    padding: 12px 20px 8px 20px;
+    text-transform: uppercase
+}
+
+.event-time li {
+    display: inline-block;
+    margin-right: 20px
+}
+
+.event-time li:last-child {
+    margin-right: 0
+}
+
+.event-time li i {
+    color: #59c17a
+}
+
+.event-block {
+    box-shadow: 0px 0px 16px 0px rgba(187, 187, 187, 0.48)
+}
+
+.event-block ul li i {
+    color: #59c17a
+}
+
+@media screen and (max-width: 1199px) {
+    .event-date {
+        padding: 10px 18px 6px 18px
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .event-date {
+        padding: 8px 15px 4px 15px
+    }
+    .events-date {
+        padding: 10px 15px 6px 15px
+    }
+}
+
+.position-relative {
+    position: relative !important;
+}
+
+.margin-40px-bottom {
+    margin-bottom: 40px;
+}
+.padding-60px-lr {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.margin-15px-bottom {
+    margin-bottom: 15px;
+}
+.font-weight-500 {
+    font-weight: 500;
+}
+.font-size22 {
+    font-size: 22px;
+}
+.text-theme-color {
+    color: #192f59;
+}
+.margin-10px-bottom {
+    margin-bottom: 10px;
+}
+.margin-10px-right {
+    margin-right: 10px;
+}

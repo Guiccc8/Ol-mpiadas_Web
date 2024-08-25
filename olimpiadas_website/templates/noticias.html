@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='noticias.css') }}">
+
+    <link rel="stylesheet" href="npm i bootstrap@5.3.3">   
+
+    <title>Carrossel</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light navbar-fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/">OLIMPÍADAS</a>
+            <div class="collapse navbar-collapse justify-content-end">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/historia">História</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/papaodacuruzu">PAPÃO DA CURUZU</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/atletas">Atletas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/medalhas">Medalhas</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/eventos">Eventos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Serviços</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="btn btn-contact" href="/contato">CONTATO</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img class="d-block w-100" src="https://th.bing.com/th/id/R.513c99d38ea9818a1d352422bf87e7a9?rik=mjp8KZcsr6y%2f3g&riu=http%3a%2f%2fstatic1.squarespace.com%2fstatic%2f5f343ff9541cd11433040eca%2ft%2f653f8d77377fb12ec9a45db9%2f1698663805910%2fPARIS.jpg%3fformat%3d1500w&ehk=PWAH6aAq9qjUHtXGUM1WWc3KDSUlj2z6imHZVmxSOJM%3d&risl=&pid=ImgRaw&r=0" alt="Primeiro Slide">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Título 1</h5>
+                <p>Descrição do primeiro slide.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="https://s.yimg.com/ny/api/res/1.2/UUJSLSfkXWCs2LZMUjIp1g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/cover_media_video_france_694/271cad794bc5e31872be7fbb3a9ac76c" alt="Segundo Slide">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Título 2</h5>
+                <p>Descrição do segundo slide.</p>
+            </div>
+        </div>
+        <div class="carousel-item">
+            <img class="d-block w-100" src="https://images.futebolinterior.com.br/2022/07/paris-2024-jogos-olimpicos-olimpiadas.webp" alt="Terceiro Slide">
+            <div class="carousel-caption d-none d-md-block">
+                <h5>Título 3</h5>
+                <p>Descrição do terceiro slide.</p>
+            </div>
+        </div>
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Anterior</span>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Próximo</span>
+    </a>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+
+<div class="container">
+    <div class="subtitulo">Notícias</div>
+
+    <div class="a">
+        <div>
+            <div class="card">
+                <img src="https://s2-ge.glbimg.com/_XlZ0aJ2mxy8bf0z4cLvthVVGQE=/0x0:5770x3847/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2024/w/y/OvlA1DR96CErXhIc7yOw/brasil-x-espanha-futebol-feminino-olimpiadas-paris-2024.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-text">Medalha de prata</h5>
+                    <a href="https://olympics.com/pt/noticias/reveja-prata-selecao-brasileira-futebol-feminino-paris-2024-terceira-jogos-olimpicos"><h10 class="text1">Seleção brasileira femi...</h10></a>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="card">
+                <img src="https://www.opovo.com.br/_midias/jpg/2024/08/05/750x500/1_rebeca_ouro_podio_olimpiadas-29475723.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-text">Medalha de ouro</h5>
+                    <a href="https://olympics.com/pt/noticias/reveja-rebeca-andrade-ganhando-o-ouro-no-solo-na-ginastica-artistica-em-paris-2024"><h10 class="text1">Rebecca Andrade conq...</h10></a>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="card">
+                <img src="https://s2-ge.glbimg.com/IKMWTaBR4_rsvGK__LPMTANhi40=/0x0:5741x3827/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2024/R/J/O1ZBP3QL6HwGUndnAEbA/2024-08-11t131702z-1900549075-up1ek8b10wcbf-rtrmadp-3-olympics-2024-volleyball.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-text">Medalha de bronze</h5>
+                    <a href="https://olympics.com/pt/noticias/reveja-bronze-selecao-brasileira-volei-feminino-sexta-jogos-olimpicos"><h10 class="text1">Vôlei feminino obtém...</h10></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="subtitulo">Entrevistas</div>
+
+    <div class="a">
+        <div>
+            <div class="card">
+                <img src="https://classic.exame.com/wp-content/uploads/2024/07/REBECA-ANDRADE.jpg?ims=750x/filters:quality(75):format(webp)" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-text">Rebeca Andrade</h5>
+                    <a href="https://exame.com/carreira/olimpiadas-2024-meu-foco-e-minha-cabeca-estao-100-em-paris-diz-a-ginasta-rebeca-andrade/"><h10 class="text1">'Meu foco e minha cabeça...</h10></a>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="card">
+                <img src="https://lncimg.lance.com.br/cdn-cgi/image/width=850,height=530,quality=75,format=webp/uploads/2024/07/Rayssa-Leal-medalha-Paris-1920x1280.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-text">Rayssa Leal</h5>
+                    <a href="https://globoplay.globo.com/v/12794501/"><h10 class="text1">Pressão pela medalha...</h10></a>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="card">
+                <img src="https://lncimg.lance.com.br/cdn-cgi/image/width=850,height=530,quality=75,format=webp/uploads/2024/07/000_366Y67Y-1920x1280.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-text">Lorrane dos Santos</h5>
+                    <a href="https://www.bing.com/videos/riverview/relatedvideo?q=olimp%C3%ADadas%202024%20entrevistas&mid=72C36787B471E8C41A7C72C36787B471E8C41A7C&ajaxhist=0"><h10 class="text1">Lorrane sobre o apoio da eq...</h10></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="subtitulo">Atualizações</div>
+    <div class="caixa-branca">
+        <h6>Paris 2024: Jogos Olímpicos se despedem da capital francesa em Cerimônia de Encerramento emocionante</h6>
+        <p>
+            Em um evento carregado de emoção, a Cerimônia de Encerramento dos Jogos Olímpicos Paris 2024 foi realizada no Stade de France neste domingo, 11 de agosto, novamente com muita dança, música e, acima de tudo, a alegria do povo francês, que recebeu tão bem essa edição do evento.
+        </p>
+    </div>
+
+    <div class="caixa-branca">
+        <h6>Paris 2024, os Jogos Olímpicos das mulheres brasileiras</h6>
+        <p>
+            Das 20 medalhas que o Brasil conquistou em Paris 2024, 12 vieram das mãos de mulheres e uma outra também contou com a participação delas, na equipe mista do judô.
+        </p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="subtitulo">Artigos e análises</div>
+
+    <div class="a">
+        <div>
+            <div class="card">
+                <img src="https://fly.metroimg.com/upload/q_85,w_700/https://uploads.metroimg.com/wp-content/uploads/2024/07/31111757/GettyImages-2164359106.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-text">Análise</h5>
+                    <a href="https://ge.globo.com/olimpiadas/noticia/2024/08/10/analise-brasil-se-atrapalha-com-ciclo-curto-queima-largadas-e-fica-sem-recorde-nas-olimpiadas.ghtml"><h10 class="text1">Erro de estratégia em ciclo curto dei...</h10></a>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="card">
+                <img src="https://s2-cbn.glbimg.com/t7rHwJtACCmIgY2B1GrKi7M0bVE=/0x0:2560x1706/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_d975fad146a14bbfad9e763717b09688/internal_photos/bs/2024/A/L/DCsbVOQdqBqBNFFGffvw/whatsapp-image-2024-08-07-at-13.10.48-1-.jpeg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-text">Análise 2º</h5>
+                    <a href="https://ge.globo.com/olimpiadas/blogs/brasil-em-paris/noticia/2024/07/28/analise-2o-dia-brasil-e-favorito-no-skate-e-tem-chances-na-canoagem-e-judo.ghtml"><h10 class="text1">Brasil é favorito no skate e tem chances na...</h10></a>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <div class="card">
+                <img src="https://th.bing.com/th/id/OIP.jRRbYh4KeboY1zHoVyY4CwHaEy?rs=1&pid=ImgDetMain" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-text">Artigo</h5>
+                    <a href="https://revistaquem.globo.com/esportes/olimpiadas/noticia/2024/08/olimpiadas-3-momentos-em-que-o-brasil-repercutiu-na-imprensa-internacional.ghtml"><h10 class="text1">Momentos em que o Brasil repercutiu na...</h10></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<footer class="rodape" id="contato">
+    <div class="rodape-div">
+
+        <div class="rodape-div-1">
+            <div class="rodape-div-1-coluna">
+                <span><b><img src="https://static.lsm.lv/media/2024/03/large/1/nbxh.jpg" class="n" alt=""></b></span>
+            </div>
+        </div>
+
+        <div class="rodape-div-2">
+            <div class="rodape-div-2-coluna">
+                <span><b>Redes Sociais</b></span>
+                <a href="https://www.instagram.com/paris2024/"><p><img src="https://static.vecteezy.com/system/resources/previews/018/930/692/original/instagram-logo-instagram-icon-transparent-free-png.png" class="y" alt=""></p></a>
+                <a href="https://x.com/Paris2024"><p><img src="https://img.freepik.com/vetores-premium/x-nova-rede-social-icone-preto-do-aplicativo-twitter-renomeado-como-x-o-logotipo-do-twitter-foi-alterado_277909-649.jpg" class="t" alt=""></p></a>
+                <a href="https://www.youtube.com/channel/UCg4W1uf-i5X1nVaeWJsKuyA/videos"><p><img src="https://www.vectorico.com/wp-content/uploads/2018/02/youtube-dark-square.png" class="t" alt=""></p></a>
+            </div>
+        </div>
+
+        <div class="rodape-div-3">
+            <div class="rodape-div-3-coluna">
+                <span><b>Links</b></span>
+                <p><a href="https://olympics.com/pt/olympic-channel">Olympic Channel</a></p>
+                <p><a href="https://olympics.com/ioc">COI</a></p>
+                <p><a href="https://olympics.com/museum">Museu</a></p>
+                <p><a href="https://shop.olympics.com/en/paris-2024/t-1299990829+z-949567-2073334460?_s=bm-fi-ioc-prtsite-P24-see-more-HP-en-nl">Loja</a></p>
+            </div>
+        </div>
+
+        <div class="rodape-div-4">
+            <div class="rodape-div-4-coluna">
+                <span><b>Outros</b></span>
+                <p>Políticas de Privacidade</p>
+            </div>
+        </div>
+
+    <p class="rodape-direitos">Copyright © 2024 – Todos os Direitos Reservados.</p>
+</footer>
+</div>
+
+
+</body>
+</html>

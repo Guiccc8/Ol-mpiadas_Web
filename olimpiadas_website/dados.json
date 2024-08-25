@@ -1,0 +1,1079 @@
+{
+    "edicoes": [
+        {
+            "ano": 1896,
+            "cidade": "Atenas",
+            "descricao": "As primeiras Olimpíadas da era moderna, organizadas pelo Comitê Olímpico Internacional (COI).",
+            "detalhes": {
+                "datas": "6 a 15 de abril de 1896",
+                "participantes": {
+                    "países": 14,
+                    "atletas": 241,
+                    "eventos": 43,
+                    "participação_feminina": "Nenhuma mulher participou, pois a inclusão de mulheres ainda não era permitida."
+                },
+                "imagem": "static/img/atenas1896.jpg",
+                "esportes": ["Atletismo", "Ciclismo", "Esgrima", "Ginástica", "Halterofilismo", "Luta", "Natação", "Tiro", "Tênis"],
+                "principais_eventos": [
+                    "Primeira maratona moderna, vencida por Spyridon Louis, um evento que homenageou a corrida lendária do soldado ateniense Fidípides.",
+                    "O evento de atletismo contou com várias provas, incluindo 100 metros, 400 metros e a maratona, a primeira a ser realizada em uma Olimpíada moderna."
+                ],
+                "podium": {
+                    "primeiro": "Grécia",
+                    "segundo": "Estados Unidos",
+                    "terceiro": "Alemanha"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Atenas foi escolhida como a sede para simbolizar o renascimento da tradição olímpica na terra natal dos Jogos Antigos.",
+                    "desafios": [
+                        "Limitações financeiras e organizacionais significativas.",
+                        "Infraestrutura inadequada, muitos eventos foram realizados ao ar livre sem estádios dedicados."
+                    ],
+                    "impacto": "Apesar das dificuldades, os Jogos foram um sucesso e cimentaram a ideia de uma competição internacional regular."
+                },
+                "fatos_interessantes": [
+                    "O rei George I da Grécia e uma audiência de cerca de 80.000 pessoas participaram da cerimônia de abertura.",
+                    "Os vencedores receberam uma medalha de prata e um ramo de oliveira, em vez das medalhas de ouro, prata e bronze usadas atualmente."
+                ]
+            }
+        },
+        {
+            "ano": 1900,
+            "cidade": "Paris",
+            "descricao": "Realizadas como parte da Exposição Universal, estas Olimpíadas contaram com a participação de mulheres pela primeira vez.",
+            "detalhes": {
+                "datas": "14 de maio a 28 de outubro de 1900",
+                "participantes": {
+                    "países": 24,
+                    "atletas": 997,
+                    "eventos": 95,
+                    "participação_feminina": "Mulheres participaram pela primeira vez, com 22 competidoras em esportes como tênis e vela."
+                },
+                "imagem": "static/img/paris1900.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Ciclismo", "Esgrima", "Ginástica", "Hipismo", "Rugby", "Tiro", "Tênis", "Polo", "Golfe"],
+                "principais_eventos": [
+                    "Margaret Abbott dos Estados Unidos se tornou a primeira mulher a vencer um evento olímpico, ganhando no golfe.",
+                    "As competições de natação foram realizadas no rio Sena, destacando as condições únicas da época."
+                ],
+                "podium": {
+                    "primeiro": "França",
+                    "segundo": "Estados Unidos",
+                    "terceiro": "Grã-Bretanha"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos foram integrados à Exposição Universal de Paris, criando uma atmosfera caótica e mal organizada.",
+                    "desafios": [
+                        "Falta de separação clara entre os eventos olímpicos e outros eventos da exposição.",
+                        "Confusão e falta de clareza sobre quais eventos eram oficialmente olímpicos."
+                    ],
+                    "impacto": "Apesar das críticas pela organização, a inclusão das mulheres foi um marco significativo na história olímpica."
+                },
+                "fatos_interessantes": [
+                    "Os vencedores receberam troféus em vez de medalhas.",
+                    "Alguns eventos curiosos incluíram competições de balonismo e nado subaquático."
+                ]
+            }
+        },
+        {
+            "ano": 1904,
+            "cidade": "St. Louis",
+            "descricao": "As primeiras Olimpíadas realizadas nos Estados Unidos, marcadas por várias controvérsias.",
+            "detalhes": {
+                "datas": "1 de julho a 23 de novembro de 1904",
+                "participantes": {
+                    "países": 12,
+                    "atletas": 651,
+                    "eventos": 91,
+                    "participação_feminina": "A participação feminina foi limitada, com poucas atletas competindo em alguns eventos."
+                },
+                "imagem": "static/img/stlouis1904.jpg",
+                "esportes": ["Atletismo", "Boxe", "Ciclismo", "Esgrima", "Ginástica", "Luta", "Natação", "Remo", "Tênis", "Halterofilismo"],
+                "principais_eventos": [
+                    "Thomas Hicks venceu a maratona em circunstâncias controversas, recebendo ajuda ao longo do percurso.",
+                    "A inclusão de competições como tiro ao pombo vivo, que mais tarde foi removida dos Jogos."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "Cuba",
+                    "terceiro": "Alemanha"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos foram realizados como parte da Feira Mundial de St. Louis, ofuscando o evento esportivo.",
+                    "desafios": [
+                        "Acesso limitado para atletas internacionais devido à localização remota e custo elevado de viagem.",
+                        "Baixa participação de atletas de fora dos Estados Unidos, distorcendo a competitividade dos Jogos."
+                    ],
+                    "impacto": "Os Jogos de St. Louis foram criticados pela má organização e falta de foco nos princípios olímpicos."
+                },
+                "fatos_interessantes": [
+                    "Primeira vez que os Jogos incluíram medalhas de ouro, prata e bronze para os três primeiros lugares.",
+                    "Uma série de eventos étnicos controversos conhecidos como 'Dias Antropológicos' foram realizados, onde nativos foram exibidos em competições de estilo 'étnico'."
+                ]
+            }
+        },
+        {
+            "ano": 1908,
+            "cidade": "Londres",
+            "descricao": "Originalmente planejadas para Roma, mas transferidas para Londres devido à erupção do Monte Vesúvio.",
+            "detalhes": {
+                "datas": "27 de abril a 31 de outubro de 1908",
+                "participantes": {
+                    "países": 22,
+                    "atletas": 2008,
+                    "eventos": 110,
+                    "participação_feminina": "Mulheres competiram em esportes como tênis e patinação artística."
+                },
+                "imagem": "static/img/londres1908.jpg",
+                "esportes": ["Atletismo", "Boxe", "Esgrima", "Futebol", "Ginástica", "Hóquei sobre grama", "Luta", "Natação", "Pólo aquático", "Remo", "Tênis", "Tiro", "Ciclismo", "Rugby"],
+                "principais_eventos": [
+                    "Dorando Pietri, um maratonista italiano, foi desqualificado após ser ajudado a cruzar a linha de chegada, embora tenha se tornado um herói popular.",
+                    "Primeira vez que o formato de 26 milhas e 385 jardas foi utilizado na maratona, estabelecendo a distância padrão."
+                ],
+                "podium": {
+                    "primeiro": "Reino Unido",
+                    "segundo": "Estados Unidos",
+                    "terceiro": "Suécia"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Transferidos para Londres após a erupção do Vesúvio em 1906 que devastou Nápoles e obrigou a Itália a desistir da organização.",
+                    "desafios": [
+                        "A rápida reorganização e infraestrutura necessária em Londres para acomodar os Jogos.",
+                        "Tensões políticas entre as nações participantes, particularmente entre os EUA e o Reino Unido."
+                    ],
+                    "impacto": "Os Jogos de Londres foram significativos para estabelecer padrões mais formais e práticas organizacionais que seriam usadas em futuras edições."
+                },
+                "fatos_interessantes": [
+                    "Introdução de um desfile de nações com as delegações entrando no estádio, uma tradição que continua até hoje.",
+                    "James B. Connolly dos Estados Unidos, o primeiro campeão olímpico da era moderna (1896), participou novamente, desta vez no salto triplo."
+                ]
+            }
+        },
+        {
+            "ano": 1912,
+            "cidade": "Estocolmo",
+            "descricao": "Introdução do pentatlo moderno e do decatlo, com grande participação de atletas.",
+            "detalhes": {
+                "datas": "5 de maio a 22 de julho de 1912",
+                "participantes": {
+                    "países": 28,
+                    "atletas": 2407,
+                    "eventos": 102,
+                    "participação_feminina": "Aumento na participação feminina com competições em natação e saltos ornamentais."
+                },
+                "imagem": "static/img/estocolmo1912.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Tênis", "Pólo aquático", "Halterofilismo", "Hipismo"],
+                "principais_eventos": [
+                    "Jim Thorpe, dos Estados Unidos, venceu tanto o pentatlo quanto o decatlo, mas posteriormente foi desclassificado por violar regras de amadorismo (uma decisão revertida em 1983).",
+                    "Introdução de cronometragem eletrônica e fotografia de chegada, melhorando a precisão dos resultados."
+                ],
+                "podium": {
+                    "primeiro": "Suécia",
+                    "segundo": "Estados Unidos",
+                    "terceiro": "Grã-Bretanha"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de 1912 foram os primeiros a ver a participação de todos os continentes habitados e são frequentemente considerados os primeiros 'verdadeiros' Jogos Olímpicos internacionais.",
+                    "desafios": [
+                        "Logística de acomodar um número crescente de atletas e eventos.",
+                        "Equilibrar as regras rigorosas de amadorismo com a crescente popularidade e comercialização do esporte."
+                    ],
+                    "impacto": "Estocolmo 1912 estabeleceu novos padrões para a organização e a tecnologia dos Jogos Olímpicos, deixando um legado duradouro."
+                },
+                "fatos_interessantes": [
+                    "Foi a última Olimpíada que contou com provas de tiro ao pombo vivo.",
+                    "As competições de natação foram realizadas em uma baía ao ar livre."
+                ]
+            }
+        },
+        {
+            "ano": 1920,
+            "cidade": "Antuérpia",
+            "descricao": "Primeiros Jogos após a Primeira Guerra Mundial, com a introdução da bandeira olímpica.",
+            "detalhes": {
+                "datas": "20 de abril a 12 de setembro de 1920",
+                "participantes": {
+                    "países": 29,
+                    "atletas": 2.626,
+                    "eventos": 156,
+                    "participação_feminina": "Mulheres participaram em esportes como tênis, natação e patinação artística."
+                },
+                "imagem": "static/img/antuerpia1920.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Tênis", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Rúgbi", "Hóquei"],
+                "principais_eventos": [
+                    "A introdução da bandeira olímpica, que foi hasteada pela primeira vez nos Jogos de 1920.",
+                    "A maratona teve um percurso desafiador, com diversos corredores abandonando devido ao calor."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "Suécia",
+                    "terceiro": "Grã-Bretanha"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos foram realizados em um contexto de recuperação pós-guerra, com muitos países ainda lidando com as consequências da Primeira Guerra Mundial.",
+                    "desafios": [
+                        "Reconstrução e reorganização em um período de dificuldades econômicas e políticas.",
+                        "Ausência de várias nações, incluindo Alemanha e Áustria, devido às sanções pós-guerra."
+                    ],
+                    "impacto": "Os Jogos de Antuérpia marcaram um retorno à normalidade e promoveram a paz e a solidariedade internacional."
+                },
+                "fatos_interessantes": [
+                    "Foi introduzido o Juramento Olímpico, proferido pelo atleta belga Victor Boin.",
+                    "O símbolo dos anéis olímpicos foi usado pela primeira vez em uma Olimpíada."
+                ]
+            }
+        },
+        {
+            "ano": 1924,
+            "cidade": "Paris",
+            "descricao": "Segunda vez que Paris sediou os Jogos Olímpicos, com a participação de mais de 3.000 atletas.",
+            "detalhes": {
+                "datas": "4 de maio a 27 de julho de 1924",
+                "participantes": {
+                    "países": 44,
+                    "atletas": 3.089,
+                    "eventos": 126,
+                    "participação_feminina": "Mulheres competiram em esportes como atletismo, natação, esgrima e tênis."
+                },
+                "imagem": "static/img/paris1924.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Tênis", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Rúgbi", "Hóquei", "Futebol"],
+                "principais_eventos": [
+                    "Paavo Nurmi da Finlândia conquistou cinco medalhas de ouro em atletismo.",
+                    "O sucesso da equipe de rúgbi dos Estados Unidos, que venceu a França em uma final controversa."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "Finlândia",
+                    "terceiro": "França"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos foram realizados em um período de crescente estabilidade e prosperidade, conhecidos como os 'Loucos Anos Vinte'.",
+                    "desafios": [
+                        "Logística de acomodar um número crescente de atletas e espectadores.",
+                        "Manter a paz e a cooperação internacional em um período de recuperação pós-guerra."
+                    ],
+                    "impacto": "Paris 1924 consolidou a popularidade dos Jogos Olímpicos e destacou o atletismo como um dos principais esportes."
+                },
+                "fatos_interessantes": [
+                    "Foi a primeira vez que o lema olímpico 'Citius, Altius, Fortius' (Mais rápido, mais alto, mais forte) foi usado.",
+                    "Os Jogos foram imortalizados no filme 'Carruagens de Fogo', que ganhou o Oscar de Melhor Filme em 1981."
+                ]
+            }
+        },
+        {
+            "ano": 1928,
+            "cidade": "Amsterdã",
+            "descricao": "Primeira vez que a chama olímpica foi acesa durante os Jogos.",
+            "detalhes": {
+                "datas": "17 de maio a 12 de agosto de 1928",
+                "participantes": {
+                    "países": 46,
+                    "atletas": 2.883,
+                    "eventos": 109,
+                    "participação_feminina": "Mulheres competiram em atletismo pela primeira vez, além de natação e esgrima."
+                },
+                "imagem": "static/img/amsterdam1928.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Tênis", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Rúgbi", "Hóquei", "Futebol"],
+                "principais_eventos": [
+                    "Mikio Oda do Japão se tornou o primeiro asiático a ganhar uma medalha de ouro, vencendo no salto triplo.",
+                    "Introdução de eventos femininos no atletismo, com destaque para a americana Betty Robinson, que venceu os 100 metros."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "Alemanha",
+                    "terceiro": "França"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Amsterdã ocorreram durante um período de crescente aceitação e inclusão, com maior participação internacional.",
+                    "desafios": [
+                        "Inovações tecnológicas e logísticas para melhorar a organização e a gestão dos eventos.",
+                        "Garantir a igualdade de gênero no esporte, com a inclusão de mais eventos femininos."
+                    ],
+                    "impacto": "Os Jogos de Amsterdã foram pioneiros na inclusão de mulheres em mais esportes e no uso da chama olímpica, que se tornou uma tradição duradoura."
+                },
+                "fatos_interessantes": [
+                    "A Alemanha voltou a competir após ser banida dos Jogos de 1920 e 1924 devido à Primeira Guerra Mundial.",
+                    "Foi a primeira Olimpíada a incluir eventos de ginástica para mulheres."
+                ]
+            }
+        },
+        {
+            "ano": 1932,
+            "cidade": "Los Angeles",
+            "descricao": "Realizados durante a Grande Depressão, com muitos países enviando menos atletas devido a dificuldades econômicas.",
+            "detalhes": {
+                "datas": "30 de julho a 14 de agosto de 1932",
+                "participantes": {
+                    "países": 37,
+                    "atletas": 1.332,
+                    "eventos": 117,
+                    "participação_feminina": "Mulheres competiram em atletismo, natação, ginástica e outros esportes."
+                },
+                "imagem": "static/img/losangeles1932.png",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Tênis", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Rúgbi", "Hóquei", "Futebol"],
+                "principais_eventos": [
+                    "Babe Didrikson dos Estados Unidos ganhou duas medalhas de ouro e uma de prata no atletismo, tornando-se uma das atletas mais celebradas dos Jogos.",
+                    "Os Jogos de Los Angeles foram os primeiros a utilizar uma vila olímpica para acomodar os atletas."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "Itália",
+                    "terceiro": "França"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos foram realizados em meio à Grande Depressão, afetando a participação e o financiamento.",
+                    "desafios": [
+                        "Dificuldades econômicas que impactaram a capacidade dos países de enviar atletas.",
+                        "Necessidade de inovação e eficiência na organização dos Jogos em tempos de crise."
+                    ],
+                    "impacto": "Los Angeles 1932 estabeleceu novos padrões para a organização de eventos esportivos, com a introdução da vila olímpica e melhorias na cronometragem."
+                },
+                "fatos_interessantes": [
+                    "Foi a primeira Olimpíada a ter uma cerimônia de abertura com a entrada das nações ao estádio.",
+                    "Os Jogos foram transmitidos pela primeira vez no rádio, ampliando o alcance e a popularidade do evento."
+                ]
+            }
+        },
+        {
+            "ano": 1936,
+            "cidade": "Berlim",
+            "descricao": "Conhecidos como os 'Jogos de Hitler', com forte propaganda nazista.",
+            "detalhes": {
+                "datas": "1 de agosto a 16 de agosto de 1936",
+                "participantes": {
+                    "países": 49,
+                    "atletas": 3.963,
+                    "eventos": 129,
+                    "participação_feminina": "Mulheres competiram em atletismo, natação, esgrima e outros esportes."
+                },
+                "imagem": "static/img/berlim1936.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Tênis", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Rúgbi", "Hóquei", "Futebol", "Handebol", "Basquetebol"],
+                "principais_eventos": [
+                    "Jesse Owens dos Estados Unidos ganhou quatro medalhas de ouro em atletismo, desafiando as ideologias racistas do regime nazista.",
+                    "Introdução da tocha olímpica, com um revezamento da Grécia até o estádio olímpico de Berlim."
+                ],
+                "podium": {
+                    "primeiro": "Alemanha",
+                    "segundo": "Estados Unidos",
+                    "terceiro": "Hungria"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Berlim foram utilizados pelo regime nazista para promover sua ideologia e mostrar a 'superioridade' alemã.",
+                    "desafios": [
+                        "Boicotes e controvérsias políticas devido à utilização dos Jogos como ferramenta de propaganda nazista.",
+                        "Tensões globais crescentes que culminariam na Segunda Guerra Mundial."
+                    ],
+                    "impacto": "Os Jogos de 1936 são lembrados tanto pelo desempenho atlético quanto pelo seu uso na propaganda política, destacando o poder do esporte como ferramenta diplomática."
+                },
+                "fatos_interessantes": [
+                    "Berlim 1936 foi a primeira Olimpíada a ser transmitida pela televisão, embora de forma limitada.",
+                    "Os eventos de canoagem e caiaque foram introduzidos pela primeira vez nos Jogos Olímpicos."
+                ]
+            }
+        },
+        {
+            "ano": 1948,
+            "cidade": "Londres",
+            "descricao": "Primeiros Jogos após a Segunda Guerra Mundial, conhecidos como os 'Jogos da Austeridade'.",
+            "detalhes": {
+                "datas": "29 de julho a 14 de agosto de 1948",
+                "participantes": {
+                    "países": 59,
+                    "atletas": 4.104,
+                    "eventos": 136,
+                    "participação_feminina": "Mulheres competiram em eventos como atletismo, natação, esgrima, ginástica, entre outros."
+                },
+                "imagem": "static/img/londres1948.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Tênis", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol"],
+                "principais_eventos": [
+                    "Fanny Blankers-Koen dos Países Baixos ganhou quatro medalhas de ouro em atletismo, sendo apelidada de 'Dona de Casa Voadora'.",
+                    "O Japão e a Alemanha foram excluídos devido ao papel que desempenharam na Segunda Guerra Mundial."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "Suécia",
+                    "terceiro": "França"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos foram realizados em um período de reconstrução pós-guerra, com muitos países ainda se recuperando dos danos.",
+                    "desafios": [
+                        "Organização dos Jogos em meio à escassez e austeridade econômica.",
+                        "Reconciliação e promoção da paz internacional após a guerra."
+                    ],
+                    "impacto": "Londres 1948 marcou um recomeço para o movimento olímpico, destacando a resiliência e a união global."
+                },
+                "fatos_interessantes": [
+                    "Os atletas foram alojados em quartéis militares e escolas devido à escassez de acomodações.",
+                    "Foi a primeira vez que a Coreia do Sul competiu nos Jogos Olímpicos como uma nação independente."
+                ]
+            }
+        },
+        {
+            "ano": 1952,
+            "cidade": "Helsinque",
+            "descricao": "Caracterizados pela estreia da União Soviética e pela participação da Alemanha Oriental e Ocidental como uma única equipe.",
+            "detalhes": {
+                "datas": "19 de julho a 3 de agosto de 1952",
+                "participantes": {
+                    "países": 69,
+                    "atletas": 4.955,
+                    "eventos": 149,
+                    "participação_feminina": "Mulheres competiram em atletismo, natação, esgrima, ginástica, entre outros esportes."
+                },
+                "imagem": "img/helsinque1952.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Tênis", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol"],
+                "principais_eventos": [
+                    "Emil Zátopek da Tchecoslováquia conquistou três medalhas de ouro em corridas de longa distância, incluindo a maratona.",
+                    "Pela primeira vez, a União Soviética competiu nos Jogos, ganhando várias medalhas e destacando-se como uma potência esportiva."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "União Soviética",
+                    "terceiro": "Hungria"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Helsinque ocorreram durante a Guerra Fria, refletindo as tensões políticas e ideológicas da época.",
+                    "desafios": [
+                        "Equilibrar a competição esportiva com a rivalidade política entre o Bloco Ocidental e o Bloco Oriental.",
+                        "Promoção de uma mensagem de paz e cooperação internacional em meio a crescentes tensões globais."
+                    ],
+                    "impacto": "Helsinque 1952 solidificou a posição da União Soviética no cenário esportivo internacional e demonstrou a importância dos Jogos como uma plataforma para a diplomacia."
+                },
+                "fatos_interessantes": [
+                    "Helsinque foi originalmente escolhida para sediar os Jogos de 1940, que foram cancelados devido à Segunda Guerra Mundial.",
+                    "A República Popular da China participou pela primeira vez, embora Taiwan também tenha enviado uma equipe."
+                ]
+            }
+        },
+        {
+            "ano": 1956,
+            "cidade": "Melbourne",
+            "descricao": "Primeiros Jogos Olímpicos realizados no Hemisfério Sul, com competições de hipismo realizadas em Estocolmo devido a quarentenas.",
+            "detalhes": {
+                "datas": "22 de novembro a 8 de dezembro de 1956",
+                "participantes": {
+                    "países": 67,
+                    "atletas": 3.342,
+                    "eventos": 145,
+                    "participação_feminina": "Mulheres competiram em vários eventos, incluindo atletismo, natação, ginástica e esgrima."
+                },
+                "imagem": "static/img/melbourne1956.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela"],
+                "principais_eventos": [
+                    "Os Jogos foram marcados por vários boicotes políticos, incluindo a retirada da Espanha, Suíça e Países Baixos em protesto contra a invasão soviética da Hungria.",
+                    "A equipe australiana de natação dominou as competições, destacando-se como uma potência aquática."
+                ],
+                "podium": {
+                    "primeiro": "União Soviética",
+                    "segundo": "Estados Unidos",
+                    "terceiro": "Austrália"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Melbourne ocorreram em meio a tensões políticas globais, com várias nações boicotando o evento devido a conflitos internacionais.",
+                    "desafios": [
+                        "Gerenciamento das complicações logísticas de realizar os Jogos em um local distante e a questão da quarentena animal.",
+                        "Manutenção da neutralidade política e esportiva em um período de turbulência global."
+                    ],
+                    "impacto": "Melbourne 1956 destacou os desafios de realizar um evento global em tempos de conflito e mostrou a capacidade do movimento olímpico de superar obstáculos."
+                },
+                "fatos_interessantes": [
+                    "Devido a regulamentações de quarentena, as competições de hipismo foram realizadas em Estocolmo, cinco meses antes dos Jogos em Melbourne.",
+                    "Foi a primeira vez que todos os países do Hemisfério Sul participaram de uma Olimpíada."
+                ]
+            }
+        },
+        {
+            "ano": 1960,
+            "cidade": "Roma",
+            "descricao": "Conhecidos por sua grandiosidade e pela estreia das transmissões televisivas ao vivo.",
+            "detalhes": {
+                "datas": "25 de agosto a 11 de setembro de 1960",
+                "participantes": {
+                    "países": 83,
+                    "atletas": 5.338,
+                    "eventos": 150,
+                    "participação_feminina": "Mulheres competiram em diversos esportes, incluindo atletismo, natação, ginástica e esgrima."
+                },
+                "imagem": "static/img/roma1960.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela"],
+                "principais_eventos": [
+                    "Cassius Clay (futuro Muhammad Ali) ganhou a medalha de ouro no boxe, chamando atenção para seu talento e carisma.",
+                    "Wilma Rudolph dos Estados Unidos se destacou ao ganhar três medalhas de ouro em atletismo, superando a poliomielite na infância."
+                ],
+                "podium": {
+                    "primeiro": "União Soviética",
+                    "segundo": "Estados Unidos",
+                    "terceiro": "Itália"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Roma refletiram a renovação e o crescimento econômico da Europa do pós-guerra, simbolizando um novo começo.",
+                    "desafios": [
+                        "Manter a paz e a cooperação entre nações durante a Guerra Fria.",
+                        "Garantir a infraestrutura e a logística adequadas para receber um número crescente de participantes."
+                    ],
+                    "impacto": "Roma 1960 destacou a capacidade dos Jogos Olímpicos de promover a união e a celebração global, além de avançar na cobertura midiática esportiva."
+                },
+                "fatos_interessantes": [
+                    "Os Jogos de Roma foram os primeiros a serem transmitidos ao vivo pela televisão para uma audiência global.",
+                    "A chama olímpica foi acesa em Olímpia e transportada para Roma, reavivando uma tradição histórica."
+                ]
+            }
+        },
+        {
+            "ano": 1964,
+            "cidade": "Tóquio",
+            "descricao": "Primeiros Jogos Olímpicos realizados na Ásia, marcados pela tecnologia e inovação.",
+            "detalhes": {
+                "datas": "10 a 24 de outubro de 1964",
+                "participantes": {
+                    "países": 93,
+                    "atletas": 5.151,
+                    "eventos": 163,
+                    "participação_feminina": "Mulheres competiram em vários eventos, incluindo atletismo, natação, ginástica e esgrima."
+                },
+                "imagem": "static/img/tokyo1964.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei"],
+                "principais_eventos": [
+                    "A introdução do judô e do vôlei como esportes olímpicos.",
+                    "Abebe Bikila da Etiópia ganhou sua segunda maratona consecutiva, correndo descalço."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "União Soviética",
+                    "terceiro": "Japão"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Tóquio simbolizaram a recuperação do Japão após a Segunda Guerra Mundial e sua emergência como uma potência econômica.",
+                    "desafios": [
+                        "Superar as cicatrizes da guerra e mostrar ao mundo um Japão moderno e inovador.",
+                        "Manter a neutralidade política em um período de tensões globais."
+                    ],
+                    "impacto": "Tóquio 1964 marcou uma nova era de modernidade e inovação nos Jogos Olímpicos, com avanços tecnológicos e maior cobertura televisiva."
+                },
+                "fatos_interessantes": [
+                    "Os Jogos foram os primeiros a serem transmitidos via satélite, alcançando uma audiência global.",
+                    "A cidade de Tóquio passou por uma extensa modernização para receber o evento, incluindo a construção de novas infraestruturas."
+                ]
+            }
+        },
+        {
+            "ano": 1968,
+            "cidade": "Cidade do México",
+            "descricao": "Marcados por protestos políticos e avanços significativos nos recordes esportivos.",
+            "detalhes": {
+                "datas": "12 a 27 de outubro de 1968",
+                "participantes": {
+                    "países": 112,
+                    "atletas": 5.516,
+                    "eventos": 172,
+                    "participação_feminina": "Mulheres competiram em vários esportes, incluindo atletismo, natação, ginástica e esgrima."
+                },
+                "imagem": "static/img/mexico1968.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei"],
+                "principais_eventos": [
+                    "O protesto dos atletas Tommie Smith e John Carlos no pódio, com o gesto de punho cerrado em apoio aos direitos civis.",
+                    "Bob Beamon dos Estados Unidos estabeleceu um recorde mundial no salto em distância que durou 23 anos."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "União Soviética",
+                    "terceiro": "Japão"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de 1968 ocorreram em um período de grandes agitações sociais e políticas, refletindo as lutas pelos direitos civis e mudanças sociais.",
+                    "desafios": [
+                        "Gerenciamento de questões políticas e sociais intensas, incluindo protestos e boicotes.",
+                        "Competição em altitudes elevadas, o que afetou o desempenho dos atletas."
+                    ],
+                    "impacto": "Os Jogos de 1968 destacaram o poder do esporte como uma plataforma para protestos e mudanças sociais, além de mostrar a resiliência e a adaptabilidade dos atletas."
+                },
+                "fatos_interessantes": [
+                    "A altitude elevada da Cidade do México (2.240 metros acima do nível do mar) teve um impacto significativo nos eventos de resistência e recordes mundiais.",
+                    "Foi a primeira vez que o teste de gênero foi introduzido nos Jogos Olímpicos."
+                ]
+            }
+        },
+        {
+            "ano": 1972,
+            "cidade": "Munique",
+            "descricao": "Lembrados pelo ataque terrorista que resultou na morte de 11 membros da equipe israelense.",
+            "detalhes": {
+                "datas": "26 de agosto a 11 de setembro de 1972",
+                "participantes": {
+                    "países": 121,
+                    "atletas": 7.134,
+                    "eventos": 195,
+                    "participação_feminina": "Mulheres competiram em uma variedade de esportes, incluindo atletismo, natação, ginástica, esgrima, e mais."
+                },
+                "imagem": "static/img/munique1972.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol"],
+                "principais_eventos": [
+                    "Mark Spitz dos Estados Unidos ganhou sete medalhas de ouro na natação, estabelecendo novos recordes mundiais.",
+                    "Olga Korbut da União Soviética encantou o mundo com suas performances na ginástica."
+                ],
+                "podium": {
+                    "primeiro": "União Soviética",
+                    "segundo": "Estados Unidos",
+                    "terceiro": "Alemanha Oriental"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Munique foram profundamente marcados pelo ataque terrorista do grupo palestino Setembro Negro.",
+                    "desafios": [
+                        "Lidar com a segurança dos atletas e espectadores após o ataque.",
+                        "Manter o espírito olímpico e a continuidade dos Jogos em meio à tragédia."
+                    ],
+                    "impacto": "Munique 1972 sublinhou a vulnerabilidade dos Jogos Olímpicos ao terrorismo, levando a mudanças significativas na segurança em eventos esportivos globais."
+                },
+                "fatos_interessantes": [
+                    "O ataque terrorista de Munique levou à criação de protocolos de segurança mais rigorosos em eventos futuros.",
+                    "Os Jogos também foram marcados por performances atléticas excepcionais e inovações tecnológicas na transmissão."
+                ]
+            }
+        },
+        {
+            "ano": 1976,
+            "cidade": "Montreal",
+            "descricao": "Marcados por um significativo déficit financeiro e a estreia de Nadia Comaneci com suas notas perfeitas na ginástica.",
+            "detalhes": {
+                "datas": "17 de julho a 1 de agosto de 1976",
+                "participantes": {
+                    "países": 92,
+                    "atletas": 6.084,
+                    "eventos": 198,
+                    "participação_feminina": "Mulheres competiram em vários esportes, incluindo atletismo, natação, ginástica e esgrima."
+                },
+                "imagem": "static/img/montreal1976.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol"],
+                "principais_eventos": [
+                    "Nadia Comaneci da Romênia tornou-se a primeira ginasta a receber uma nota perfeita de 10 em uma competição olímpica.",
+                    "A introdução do canoagem slalom como um evento olímpico."
+                ],
+                "podium": {
+                    "primeiro": "União Soviética",
+                    "segundo": "Alemanha Oriental",
+                    "terceiro": "Estados Unidos"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Montreal ocorreram em um período de boicotes e tensões políticas, afetando a participação de várias nações.",
+                    "desafios": [
+                        "Gerenciamento do déficit financeiro significativo causado pelos custos de infraestrutura.",
+                        "Lidar com a ausência de várias nações africanas que boicotaram os Jogos em protesto contra a participação da Nova Zelândia."
+                    ],
+                    "impacto": "Montreal 1976 destacou a importância da gestão financeira em megaeventos e a influência da política na participação olímpica."
+                },
+                "fatos_interessantes": [
+                    "Os Jogos de Montreal foram os mais caros da história até aquele momento, levando a um déficit que levou décadas para ser pago.",
+                    "Nadia Comaneci tornou-se um ícone mundial com suas performances impecáveis na ginástica."
+                ]
+            }
+        },
+        {
+            "ano": 1980,
+            "cidade": "Moscou",
+            "descricao": "Marcados pelo boicote liderado pelos Estados Unidos em protesto contra a invasão soviética do Afeganistão.",
+            "detalhes": {
+                "datas": "19 de julho a 3 de agosto de 1980",
+                "participantes": {
+                    "países": 80,
+                    "atletas": 5.179,
+                    "eventos": 203,
+                    "participação_feminina": "Mulheres competiram em vários esportes, incluindo atletismo, natação, ginástica e esgrima."
+                },
+                "imagem": "static/img/moscou1980.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol"],
+                "principais_eventos": [
+                    "A grande ausência de muitos países ocidentais devido ao boicote.",
+                    "A brilhante performance dos atletas soviéticos, que dominaram o quadro de medalhas."
+                ],
+                "podium": {
+                    "primeiro": "União Soviética",
+                    "segundo": "Alemanha Oriental",
+                    "terceiro": "Bulgária"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Moscou ocorreram em um clima de intensas tensões da Guerra Fria, com um significativo boicote ocidental.",
+                    "desafios": [
+                        "Gerenciamento das consequências do boicote liderado pelos Estados Unidos.",
+                        "Manter o espírito olímpico e a participação em meio a tensões políticas globais."
+                    ],
+                    "impacto": "Moscou 1980 sublinhou a profunda interseção entre esporte e política, com os Jogos sendo fortemente afetados por conflitos internacionais."
+                },
+                "fatos_interessantes": [
+                    "O boicote liderado pelos Estados Unidos resultou na ausência de muitos dos principais países ocidentais.",
+                    "Os Jogos foram uma vitrine para o poder e a propaganda soviética durante a Guerra Fria."
+                ]
+            }
+        },
+        {
+            "ano": 1984,
+            "cidade": "Los Angeles",
+            "descricao": "Conhecidos pelo sucesso financeiro e pelo boicote liderado pela União Soviética.",
+            "detalhes": {
+                "datas": "28 de julho a 12 de agosto de 1984",
+                "participantes": {
+                    "países": 140,
+                    "atletas": 6.829,
+                    "eventos": 221,
+                    "participação_feminina": "Mulheres competiram em vários esportes, incluindo atletismo, natação, ginástica, esgrima, e novos eventos como maratona feminina e ciclismo de estrada feminino."
+                },
+                "imagem": "static/img/losangeles1984.png",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol"],
+                "principais_eventos": [
+                    "A introdução da maratona feminina e do ciclismo de estrada feminino.",
+                    "Carl Lewis dos Estados Unidos ganhou quatro medalhas de ouro no atletismo."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "Romênia",
+                    "terceiro": "Alemanha Ocidental"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Los Angeles ocorreram em um período de boicote liderado pela União Soviética, como resposta ao boicote ocidental de 1980.",
+                    "desafios": [
+                        "Garantir o sucesso financeiro dos Jogos em meio ao boicote do Bloco Oriental.",
+                        "Manter a competitividade e a participação em um cenário politicamente dividido."
+                    ],
+                    "impacto": "Los Angeles 1984 foi um marco na comercialização dos Jogos Olímpicos, mostrando que o evento poderia ser financeiramente sustentável."
+                },
+                "fatos_interessantes": [
+                    "Os Jogos de Los Angeles foram um grande sucesso financeiro, devido ao uso de patrocínios corporativos e acordos de transmissão.",
+                    "Apesar do boicote soviético, a participação foi alta, com 140 países competindo."
+                ]
+            }
+        },
+        {
+            "ano": 1988,
+            "cidade": "Seul",
+            "descricao": "Marcados pela abertura política da Coreia do Sul e performances excepcionais, incluindo a controversa vitória de Ben Johnson nos 100 metros rasos.",
+            "detalhes": {
+                "datas": "17 de setembro a 2 de outubro de 1988",
+                "participantes": {
+                    "países": 159,
+                    "atletas": 8.391,
+                    "eventos": 237,
+                    "participação_feminina": "Mulheres competiram em um número crescente de esportes, incluindo novos eventos como o tênis de mesa."
+                },
+                "imagem": "static/img/seul1984.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol", "Tênis de Mesa"],
+                "principais_eventos": [
+                    "A desqualificação de Ben Johnson do Canadá por doping, após vencer os 100 metros rasos com um recorde mundial.",
+                    "A impressionante performance de Florence Griffith-Joyner dos Estados Unidos, que estabeleceu novos recordes mundiais nos 100 e 200 metros rasos."
+                ],
+                "podium": {
+                    "primeiro": "União Soviética",
+                    "segundo": "Alemanha Oriental",
+                    "terceiro": "Estados Unidos"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Seul foram um símbolo da abertura e modernização da Coreia do Sul, ocorrendo em um clima de distensão política.",
+                    "desafios": [
+                        "Garantir a segurança e a organização impecável dos Jogos em um país ainda em transição política.",
+                        "Gerenciar as expectativas internacionais em meio a um cenário de mudanças globais."
+                    ],
+                    "impacto": "Seul 1988 destacou a importância da luta antidoping e foi um marco na democratização da Coreia do Sul, mostrando sua capacidade de sediar um evento global."
+                },
+                "fatos_interessantes": [
+                    "Os Jogos marcaram o retorno do tênis e a estreia do tênis de mesa como esportes olímpicos.",
+                    "A Cerimônia de Abertura incluiu uma impressionante demonstração de taekwondo, o esporte nacional da Coreia do Sul."
+                ]
+            }
+        },
+        {
+            "ano": 1992,
+            "cidade": "Barcelona",
+            "descricao": "Conhecidos pela transformação urbana de Barcelona e a estreia do Dream Team dos EUA no basquetebol.",
+            "detalhes": {
+                "datas": "25 de julho a 9 de agosto de 1992",
+                "participantes": {
+                    "países": 169,
+                    "atletas": 9.356,
+                    "eventos": 257,
+                    "participação_feminina": "Mulheres competiram em uma ampla gama de esportes, com novas oportunidades em modalidades como judô e basquete."
+                },
+                "imagem": "static/img/barcelona1992.png",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol", "Tênis de Mesa", "Judô"],
+                "principais_eventos": [
+                    "A estreia do Dream Team dos EUA, composto por estrelas da NBA, que dominou o torneio de basquete.",
+                    "O sucesso da cidade de Barcelona em revitalizar áreas urbanas e melhorar a infraestrutura."
+                ],
+                "podium": {
+                    "primeiro": "Comunidade dos Estados Independentes",
+                    "segundo": "Estados Unidos",
+                    "terceiro": "Alemanha"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Barcelona ocorreram após a dissolução da União Soviética, com muitos novos países participando pela primeira vez.",
+                    "desafios": [
+                        "Gerenciar a participação de novos países emergentes da antiga União Soviética.",
+                        "Garantir a integração bem-sucedida das melhorias urbanas na vida cotidiana de Barcelona."
+                    ],
+                    "impacto": "Barcelona 1992 é frequentemente lembrada como um modelo de como os Jogos Olímpicos podem transformar positivamente uma cidade anfitriã, com legado duradouro em infraestrutura e turismo."
+                },
+                "fatos_interessantes": [
+                    "Os Jogos marcaram o retorno da África do Sul após o fim do apartheid.",
+                    "Barcelona é amplamente vista como uma das Olimpíadas mais bem-sucedidas em termos de organização e impacto positivo na cidade anfitriã."
+                ]
+            }
+        },
+        {
+            "ano": 1996,
+            "cidade": "Atlanta",
+            "descricao": "Conhecidos pelo atentado à bomba no Centennial Olympic Park e pela vitória impressionante de Michael Johnson nos 200 e 400 metros rasos.",
+            "detalhes": {
+                "datas": "19 de julho a 4 de agosto de 1996",
+                "participantes": {
+                    "países": 197,
+                    "atletas": 10.318,
+                    "eventos": 271,
+                    "participação_feminina": "Mulheres competiram em uma ampla gama de esportes, com novas oportunidades em modalidades como futebol e softbol."
+                },
+                "imagem": "static/img/atlanta1996.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol", "Tênis de Mesa", "Judô", "Softbol"],
+                "principais_eventos": [
+                    "Michael Johnson dos Estados Unidos ganhou as medalhas de ouro nos 200 e 400 metros, estabelecendo um novo recorde mundial nos 200 metros.",
+                    "O atentado à bomba no Centennial Olympic Park, que resultou na morte de duas pessoas e ferimentos a 111."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "Rússia",
+                    "terceiro": "Alemanha"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Atlanta ocorreram em um período de crescente globalização e comunicação, com grande ênfase no comercialismo e patrocínios corporativos.",
+                    "desafios": [
+                        "Garantir a segurança dos atletas e espectadores após o atentado à bomba.",
+                        "Manter o equilíbrio entre os valores olímpicos e a crescente influência comercial."
+                    ],
+                    "impacto": "Atlanta 1996 destacou os desafios de sediar megaeventos em um ambiente de segurança instável, além de enfatizar a importância dos patrocinadores corporativos para o financiamento dos Jogos."
+                },
+                "fatos_interessantes": [
+                    "Os Jogos de Atlanta foram os primeiros a contar com um mascote gerado por computador, chamado Izzy.",
+                    "A chama olímpica foi acesa por Muhammad Ali, um momento icônico e emocionante."
+                ]
+            }
+        },
+        {
+            "ano": 2000,
+            "cidade": "Sydney",
+            "descricao": "Considerados alguns dos melhores Jogos da história, conhecidos pela eficiência na organização e performances memoráveis.",
+            "detalhes": {
+                "datas": "15 de setembro a 1 de outubro de 2000",
+                "participantes": {
+                    "países": 199,
+                    "atletas": 10.651,
+                    "eventos": 300,
+                    "participação_feminina": "Mulheres competiram em um grande número de esportes, com novas oportunidades em modalidades como halterofilismo feminino e pentatlo moderno feminino."
+                },
+                "imagem": "static/img/sydney2000.png",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol", "Tênis de Mesa", "Judô", "Softbol", "Pentatlo Moderno"],
+                "principais_eventos": [
+                    "Cathy Freeman da Austrália ganhou a medalha de ouro nos 400 metros, em um momento simbólico para a reconciliação com os povos indígenas da Austrália.",
+                    "A performance dominante de Ian Thorpe na natação, ganhando três medalhas de ouro e duas de prata."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "Rússia",
+                    "terceiro": "China"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Sydney ocorreram em um período de otimismo global e crescimento econômico, com ênfase na sustentabilidade e inclusão.",
+                    "desafios": [
+                        "Garantir a inclusão e a representação justa de atletas de todas as nações e origens.",
+                        "Gerenciar a infraestrutura e os custos de um megaevento em uma cidade em crescimento."
+                    ],
+                    "impacto": "Sydney 2000 é frequentemente lembrada como um exemplo de excelência na organização dos Jogos Olímpicos, com legado duradouro em termos de infraestrutura e impacto social."
+                },
+                "fatos_interessantes": [
+                    "A Cerimônia de Abertura foi um espetáculo deslumbrante, celebrando a cultura e a diversidade da Austrália.",
+                    "Os Jogos foram elogiados por sua abordagem sustentável e ambientalmente consciente."
+                ]
+            }
+        },
+        {
+            "ano": 2004,
+            "cidade": "Atenas",
+            "descricao": "Um retorno às origens dos Jogos Olímpicos, marcado por desafios logísticos e um espírito de celebração da história olímpica.",
+            "detalhes": {
+                "datas": "13 a 29 de agosto de 2004",
+                "participantes": {
+                    "países": 201,
+                    "atletas": 10.625,
+                    "eventos": 301,
+                    "participação_feminina": "Mulheres competiram em uma ampla gama de esportes, com novas oportunidades em modalidades como luta livre feminina."
+                },
+                "imagem": "static/img/atenas2004.jpg",
+                "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol", "Tênis de Mesa", "Judô", "Softbol", "Pentatlo Moderno", "Luta Livre"],
+                "principais_eventos": [
+                    "O retorno simbólico dos Jogos à sua cidade de origem, Atenas.",
+                    "O sucesso de Michael Phelps, que ganhou seis medalhas de ouro e duas de bronze na natação."
+                ],
+                "podium": {
+                    "primeiro": "Estados Unidos",
+                    "segundo": "China",
+                    "terceiro": "Rússia"
+                },
+                "contexto_geopolitico": {
+                    "descricao": "Os Jogos de Atenas ocorreram em um período de desafios econômicos e logísticos, mas também de grande orgulho nacional e celebração da história olímpica.",
+                    "desafios": [
+                        "Gerenciar a infraestrutura e os custos elevados de sediar os Jogos em um período de dificuldades econômicas.",
+                        "Garantir a segurança e a logística em uma cidade com infraestrutura antiga."
+                    ],
+                    "impacto": "Atenas 2004 simbolizou um retorno às raízes dos Jogos Olímpicos, com um forte sentimento de orgulho histórico e cultural, apesar dos desafios logísticos."
+                },
+                "fatos_interessantes": [
+                    "Os Jogos marcaram o centenário dos primeiros Jogos Olímpicos modernos realizados em Atenas em 1896.",
+                    "A infraestrutura construída para os Jogos enfrentou desafios de manutenção e uso pós-Olimpíadas."
+                ]
+            }
+        },
+        {
+            "ano": 2008,
+            "cidade": "Pequim",
+            "descricao": "Conhecidos pela grandiosidade e organização impecável, com destaque para as performances excepcionais de Usain Bolt e Michael Phelps.",
+            "detalhes": {
+                "datas": "8 a 24 de agosto de 2008",
+                "participantes": {
+                    "países": 204,
+                    "atletas": 10.942,
+                    "eventos": 302,
+                    "participação_feminina":"Mulheres competiram em uma ampla gama de esportes, com destaque para o aumento da participação em modalidades como o triatlo e o esgrima."
+        },
+        "imagem": "static/img/beijing2008.png",
+        "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol", "Tênis de Mesa", "Judô", "Softbol", "Pentatlo Moderno", "Triatlo"],
+        "principais_eventos": [
+            "Usain Bolt estabeleceu novos recordes mundiais nos 100 metros rasos, 200 metros rasos e 4x100 metros.",
+            "Michael Phelps ganhou oito medalhas de ouro, um recorde para um único Jogos Olímpicos."
+        ],
+        "podium": {
+            "primeiro": "China",
+            "segundo": "Estados Unidos",
+            "terceiro": "Grã-Bretanha"
+        },
+        "contexto_geopolitico": {
+            "descricao": "Os Jogos de Pequim foram uma exibição da ascensão da China como uma potência global e um esforço para promover uma imagem positiva do país.",
+            "desafios": [
+                "Gerenciar a pressão para mostrar uma imagem moderna e poderosa da China ao mundo.",
+                "Garantir que a infraestrutura e a organização atendam aos altos padrões internacionais."
+            ],
+            "impacto": "Pequim 2008 é lembrado por sua organização impecável e pela exibição impressionante das capacidades atléticas dos atletas, além de ter servido para projetar uma imagem forte da China no cenário global."
+        },
+        "fatos_interessantes": [
+            "A cerimônia de abertura, dirigida por Zhang Yimou, foi uma das mais grandiosas e memoráveis da história dos Jogos Olímpicos.",
+            "Os Jogos de Pequim foram os primeiros a incluir o esporte de skate como uma modalidade olímpica de demonstração."
+        ]
+        }
+
+    },
+    {
+        "ano": 2012,
+        "cidade": "Londres",
+        "descricao": "Conhecidos pela organização de alta qualidade e pela inclusão de novos esportes, além de ser a terceira vez que Londres sediou os Jogos Olímpicos.",
+        "detalhes": {
+            "datas": "27 de julho a 12 de agosto de 2012",
+            "participantes": {
+                "países": 204,
+                "atletas": 10.768,
+                "eventos": 302,
+                "participação_feminina": "Houve uma ampla representação feminina, com a inclusão de eventos femininos em todos os esportes e a estreia do boxe feminino."
+            },
+            "imagem": "static/img/londres2012.jpg",
+            "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol", "Tênis de Mesa", "Judô", "Softbol", "Pentatlo Moderno", "Rugby Sevens"],
+            "principais_eventos": [
+                "Usain Bolt defendeu com sucesso seus títulos dos 100 e 200 metros rasos.",
+                "Jessica Ennis e Mo Farah tiveram performances inspiradoras, ganhando ouro em heptatlo e 10.000 metros, respectivamente."
+            ],
+            "podium": {
+                "primeiro": "Estados Unidos",
+                "segundo": "Grã-Bretanha",
+                "terceiro": "China"
+            },
+            "contexto_geopolitico": {
+                "descricao": "Os Jogos de Londres 2012 ocorreram em um clima de recuperação econômica global e com ênfase em inclusão e sustentabilidade.",
+                "desafios": [
+                    "Gerenciar a logística e a segurança em uma cidade grande e histórica.",
+                    "Garantir que os Jogos fossem inclusivos e sustentáveis, seguindo as diretrizes de Londres como cidade anfitriã."
+                ],
+                "impacto": "Londres 2012 foi aclamado por sua excelente organização, inclusão e legado duradouro, mostrando a capacidade de uma cidade histórica para sediar um megaevento moderno."
+            },
+            "fatos_interessantes": [
+                "Londres se tornou a primeira cidade a sediar os Jogos Olímpicos três vezes, após as edições de 1908 e 1948.",
+                "Os Jogos foram notáveis pela inclusão do rugby sevens e a estreia do boxe feminino."
+            ]
+        }
+    },
+    {
+        "ano": 2016,
+        "cidade": "Rio de Janeiro",
+        "descricao": "Conhecidos por serem os primeiros Jogos Olímpicos na América do Sul, marcados por desafios econômicos e sociais, mas também por performances notáveis.",
+        "detalhes": {
+            "datas": "5 a 21 de agosto de 2016",
+            "participantes": {
+                "países": 207,
+                "atletas": 11.238,
+                "eventos": 306,
+                "participação_feminina": "Aumentou significativamente, com mulheres competindo em todos os esportes e em novas modalidades como o rugby feminino e o golfe."
+            },
+            "imagem": "static/img/riojaneiro2016.jpg",
+            "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol", "Tênis de Mesa", "Judô", "Softbol", "Pentatlo Moderno", "Rugby Sevens", "Golfe"],
+            "principais_eventos": [
+                "O desempenho notável de Michael Phelps, que ganhou cinco medalhas de ouro e uma de prata na natação.",
+                "A vitória de Neymar na final do futebol masculino, garantindo o primeiro ouro olímpico do Brasil no esporte."
+            ],
+            "podium": {
+                "primeiro": "Estados Unidos",
+                "segundo": "Grã-Bretanha",
+                "terceiro": "China"
+            },
+            "contexto_geopolitico": {
+                "descricao": "Os Jogos de Rio 2016 ocorreram em um período de crise econômica e política no Brasil, mas também destacaram o potencial do país para sediar um evento global.",
+                "desafios": [
+                    "Gerenciar a crise econômica e os desafios de infraestrutura.",
+                    "Garantir a segurança e a organização dos Jogos em um cenário de instabilidade política."
+                ],
+                "impacto": "Rio 2016 destacou tanto os desafios enfrentados pelo país anfitrião quanto o espírito de superação e a capacidade de proporcionar um evento global memorável."
+            },
+            "fatos_interessantes": [
+                "Foi a primeira vez que o golfe e o rugby sevens foram incluídos como esportes olímpicos desde o início do século XX.",
+                "Os Jogos foram marcados por uma grande cerimônia de abertura, celebrando a cultura brasileira e a diversidade."
+            ]
+        }
+    },
+    {
+        "ano": 2020,
+        "cidade": "Tóquio",
+        "descricao": "Originalmente programados para 2020, os Jogos foram adiados para 2021 devido à pandemia de COVID-19, mantendo o nome Tóquio 2020.",
+        "detalhes": {
+            "datas": "23 de julho a 8 de agosto de 2021",
+            "participantes": {
+                "países": 206,
+                "atletas": 11.420,
+                "eventos": 339,
+                "participação_feminina": "As mulheres participaram em um número recorde de eventos, com destaque para a inclusão de novos esportes como escalada esportiva e surfe."
+            },
+            "imagem": "static/img/tokyo2020.jpg",
+            "esportes": ["Atletismo", "Remo", "Natação", "Esgrima", "Ginástica", "Luta", "Ciclismo", "Tiro", "Pólo aquático", "Halterofilismo", "Hipismo", "Boxe", "Hóquei", "Futebol", "Basquetebol", "Vela", "Vôlei", "Handebol", "Tênis de Mesa", "Judô", "Softbol", "Pentatlo Moderno", "Rugby Sevens", "Golfe", "Escalada Esportiva", "Surfe", "Karate"],
+            "principais_eventos": [
+                "A vitória de Caeleb Dressel dos EUA com cinco medalhas de ouro na natação.",
+                "A estreia do surfe e escalada esportiva, com a vitória de surfistas como Carissa Moore e a escaladora japonesa Akiyo Noguchi."
+            ],
+            "podium": {
+                "primeiro": "Estados Unidos",
+                "segundo": "China",
+                "terceiro": "Japão"
+            },
+            "contexto_geopolitico": {
+                "descricao": "Os Jogos de Tóquio 2020 ocorreram em meio a uma pandemia global, com protocolos rigorosos de segurança e uma abordagem sem espectadores internacionais.",
+                "desafios": [
+                    "Gerenciar a realização dos Jogos sob as restrições da pandemia de COVID-19.",
+                    "Garantir a segurança e o bem-estar dos atletas e funcionários em um ambiente global instável."
+                ],
+                "impacto": "Tóquio 2020 destacou a resiliência do espírito olímpico e a capacidade de adaptação diante de desafios sem precedentes, com um legado que enfatiza a importância da saúde e segurança."
+            },
+            "fatos_interessantes": [
+                "A cerimônia de abertura foi realizada sem espectadores internacionais devido às restrições de saúde.",
+                "Os Jogos introduziram novos esportes, como surfe e escalada esportiva, que receberam ampla atenção e popularidade."
+            ]
+        }
+    }   
+
+    ]
+}

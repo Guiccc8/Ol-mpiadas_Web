@@ -1,0 +1,221 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar {
+    background-color: #f8f9fa;
+    padding: 1rem;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.nav-link {
+    margin-right: 15px;
+    color: #000;
+    font-size: 16px;
+}
+
+.btn-contact {
+    font-weight: bold;
+    color: #000;
+    border: 1px solid #000;
+    padding: 0.5rem 1rem;
+}
+
+.navbar-nav {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-fixed-top {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.hero-section {
+    position: relative;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero-section .overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.hero-section .container {
+    position: relative;
+    z-index: 2;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.card {
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+.olympic-section {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+}
+.olympic-section h2 {
+    font-size: 18px;
+    color: #E03C3C;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.olympic-section h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #000;
+}
+.olympic-section p {
+    font-size: 16px;
+    color: #444;
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+.olympic-section a {
+    color: #000;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 16px;
+}
+.interactive-resources-section {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+}
+.interactive-resources-section {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+}
+.interactive-resources-section h2 {
+    font-size: 18px;
+    color: #E03C3C;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
+.interactive-resources-section h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #000;
+}
+.card {
+    border: none;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
+.card-body {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-grow: 1;
+}
+.card-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #000;
+    margin-bottom: 10px;
+}
+.card-text {
+    font-size: 16px;
+    color: #444;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.card {
+    height: 100%;
+    width: 100%;
+}
+.form-container {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 8px;
+    color: #ffffff;
+}
+
+.form-label {
+    color: #ffffff;
+}
+
+.form-control {
+    background-color: #161616;
+    border: 1px solid #555555;
+    color: #ffffff;
+}
+
+.form-control:focus {
+    background-color: #161616;
+    border-color: #e81e2a;
+    color: #ffffff;
+}
+
+.btn-custom {
+    background-color: #e81e2a;
+    border: none;
+    color: #ffffff;
+}
+
+.btn-custom:hover {
+    background-color: #d41623;
+}
+
+.map-container {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.list-unstyled li {
+    color: #ffffff;
+}
+
+.form-section {
+    margin-bottom: 20px;
+}
+
+.submit-section {
+    margin-top: 10px;
+}
+
+.form-check-label {
+    font-size: 0.9rem;
+}
+
+.h2, h4 {
+    margin-bottom: 15px;
+}
+footer {
+    background-color: #333;
+}
